@@ -1,0 +1,15 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+.env
+.env.*
+!.env.example
+public/museum-runtime.js
+public/museum-runtime.css
+.taste-skill/
+*.tsbuildinfo
+public/LICENSE
+public/THIRD_PARTY_NOTICES.md
+COORDINATION.md
+docs/handoffs/
