@@ -12,8 +12,8 @@ Applied installed design-taste-frontend and frontend-design skills. Draw: **The 
 
 ## Tokens
 
-- Ground `#f4f4f1`; paper `#ffffff`; ink `#282a28`; secondary `#656860`; accent berry `#923c51`; soft rose `#f1e2e5`.
-- Accent choices: berry `#923c51`, forest `#386253`, ocean `#355e78`. All support white button text.
+- Ground `#f4f4f1`; paper `#ffffff`; ink `#282a28`; secondary `#656860`; accent berry `#A84458`; soft rose `#f1e2e5`.
+- Accent choices: berry `#A84458`, forest `#386253`, ocean `#355e78`. All support white button text.
 - Reading display: `"Noto Serif CJK SC", "Songti SC", SimSun, serif`; interface: `"Microsoft YaHei", "PingFang SC", system-ui, sans-serif`. No downloads.
 - Interface sizes: 13, 15, 18, 26, 40px. Gift display title scales to 64px, constrained to two lines for the supplied copy; user-written long titles wrap safely.
 - Space unit: 8px; desktop page margin 32px; phone 20px. Tone changes separate surfaces. Forms may use borders; no decorative rules, gradients, glass or resting shadows.

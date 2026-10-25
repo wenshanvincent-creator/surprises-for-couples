@@ -2,7 +2,7 @@
 
 Date: 2026-10-25
 Repository: https://github.com/wenshanvincent-creator/surprises-for-couples
-Stage: v0.1 implemented; final integration and repository publication in progress.
+Stage: v0.1 implemented and published to the repository. Local production build, 33 data tests and two real-browser journeys passed, including extracted file:// offline media playback. Hosted CI status is available in GitHub Actions; public website deployment remains optional.
 
 ## Confirmed brief
 
